@@ -3,11 +3,7 @@
 A simple and interactive **Budget Tracker Web Application** built with **React.js** that helps users manage their income, expenses, and savings goals effectively. The app provides a clean UI, theme toggle support, and real‑time budget tracking.
 
 ---
-
-## 🔗 Live Demo
-
-👉 **Live Project:** [https://your-budget-tracker-live-link.netlify.app]
-
+Project live demo : https://budgettrackerprojectreact.netlify.app/
 
 ## 🚀 Features
 
