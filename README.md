@@ -1,16 +1,66 @@
-# React + Vite
+# 💰 Budget Tracker Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Budget Tracker Web Application** built with **React.js** that helps users manage their income, expenses, and savings goals effectively. The app provides a clean UI, theme toggle support, and real‑time budget tracking.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 **Live Project:** [https://your-budget-tracker-live-link.netlify.app]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ➕ **Add Budget / Income**
+
+* 🎯 **Set Savings Goals**
+
+* 🧾 **Track Expenses** (amount & category)
+
+* 📊 **View Remaining Balance** in real time
+
+* ⚡ **Instant UI Updates** with React state
+
+* 📱 **Fully Responsive Design**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js (Vite)
+* **Styling:** Tailwind CSS
+* **State Management:** React Hooks (`useState`, `useEffect`)
+
+---
+
+## 📂 Project Structure
+
+BUDGET-TRACKER/
+│
+├── public/
+│
+├── src/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── 
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+
+## 🧠 How It Works
+
+* User enters total budget or income.
+* Savings goal can be set separately.
+* Expenses are added dynamically.
+* Remaining balance updates automatically.
+* Theme toggle allows switching between light and dark mode.
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
